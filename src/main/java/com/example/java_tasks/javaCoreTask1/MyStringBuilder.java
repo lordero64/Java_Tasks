@@ -2,6 +2,7 @@ package com.example.java_tasks.javaCoreTask1;
 
 import java.util.Stack;
 
+
 /**
  * Упрощенный StringBuilder с поддержкой возврата состояния (undo)
  */
